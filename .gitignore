@@ -1,0 +1,35 @@
+# Environment
+venv/
+env/
+.env
+menv/
+
+model_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Streamlit
+.streamlit/
+
+# Model cache
+*.bin
+*.pt
+model_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

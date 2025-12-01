@@ -1,0 +1,15 @@
+streamlit==1.40.0
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.40.0
+google-generativeai==0.8.3
+Pillow==11.0.0
+python-dotenv==1.0.1
+sentence-transformers==2.6.1
+accelerate==1.2.1
+opencv-python==4.10.0.84
+protobuf==5.29.2
+sentencepiece==0.2.0
+matplotlib
+albumentations 
+einops
